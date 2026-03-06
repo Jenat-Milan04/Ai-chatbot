@@ -1,0 +1,469 @@
+case_id,animalname,symptom,first_aid_advice,emergency
+13,dog,abdominal pain,"Keep your dog calm and restrict movement. Don’t give new foods or table scraps. If pain is strong or keeps getting worse, contact a veterinarian urgently.",yes
+32,dog,allergic reaction,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+31,dog,anaemia,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+12,dog,back pain,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+29,dog,blindness,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+8,dog,bloody drool,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+5,dog,blue eye,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+4,dog,breathing difficulty,"Move your dog to a cool, quiet place and reduce stress. Do not force exercise or restrain the chest or neck. If breathing is labored or gasping, seek emergency vet care.",yes
+6,dog,breathing difficulty,"Move your dog to a cool, quiet place and reduce stress. Do not force exercise or restrain the chest or neck. If breathing is labored or gasping, seek emergency vet care.",yes
+9,dog,breathing difficulty,"Move your dog to a cool, quiet place and reduce stress. Do not force exercise or restrain the chest or neck. If breathing is labored or gasping, seek emergency vet care.",yes
+20,dog,breathing difficulty,"Move your dog to a cool, quiet place and reduce stress. Do not force exercise or restrain the chest or neck. If breathing is labored or gasping, seek emergency vet care.",yes
+22,dog,breathing difficulty,"Move your dog to a cool, quiet place and reduce stress. Do not force exercise or restrain the chest or neck. If breathing is labored or gasping, seek emergency vet care.",yes
+38,dog,breathing difficulty,"Move your dog to a cool, quiet place and reduce stress. Do not force exercise or restrain the chest or neck. If breathing is labored or gasping, seek emergency vet care.",yes
+45,dog,breathing difficulty,"Move your dog to a cool, quiet place and reduce stress. Do not force exercise or restrain the chest or neck. If breathing is labored or gasping, seek emergency vet care.",yes
+47,dog,breathing difficulty,"Move your dog to a cool, quiet place and reduce stress. Do not force exercise or restrain the chest or neck. If breathing is labored or gasping, seek emergency vet care.",yes
+50,dog,breathing difficulty,"Move your dog to a cool, quiet place and reduce stress. Do not force exercise or restrain the chest or neck. If breathing is labored or gasping, seek emergency vet care.",yes
+52,dog,breathing difficulty,"Move your dog to a cool, quiet place and reduce stress. Do not force exercise or restrain the chest or neck. If breathing is labored or gasping, seek emergency vet care.",yes
+53,dog,breathing difficulty,"Move your dog to a cool, quiet place and reduce stress. Do not force exercise or restrain the chest or neck. If breathing is labored or gasping, seek emergency vet care.",yes
+56,dog,breathing difficulty,"Move your dog to a cool, quiet place and reduce stress. Do not force exercise or restrain the chest or neck. If breathing is labored or gasping, seek emergency vet care.",yes
+59,dog,breathing difficulty,"Move your dog to a cool, quiet place and reduce stress. Do not force exercise or restrain the chest or neck. If breathing is labored or gasping, seek emergency vet care.",yes
+69,dog,breathing difficulty,"Move your dog to a cool, quiet place and reduce stress. Do not force exercise or restrain the chest or neck. If breathing is labored or gasping, seek emergency vet care.",yes
+109,dog,breathing difficulty,"Move your dog to a cool, quiet place and reduce stress. Do not force exercise or restrain the chest or neck. If breathing is labored or gasping, seek emergency vet care.",yes
+10,dog,broken bones,Stop movement immediately. Do not try to straighten the limb. Support the leg if possible and take your dog to a veterinarian urgently.,yes
+2,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+3,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+4,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+5,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+18,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+19,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+20,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+21,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+31,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+32,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+38,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+39,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+40,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+42,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+45,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+47,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+50,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+52,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+56,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+59,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+69,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+71,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+72,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+73,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+75,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+76,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+78,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+79,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+82,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+86,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+90,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+94,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+97,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+104,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+109,dog,coughing,"Allow rest and keep away from smoke or dust. Provide water. If coughing lasts long, worsens, or affects breathing, contact a veterinarian.",no
+23,dog,crusting of the skin,"Do not peel crusts. Clean gently with clean water and keep the area dry. If redness spreads or infection signs appear, consult a veterinarian.",no
+23,dog,dandruff,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+23,dog,darkened skin,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+1,dog,dehydration,"Offer small frequent sips of water or rehydration solution. If your dog cannot drink or becomes very weak, seek veterinary care.",no
+27,dog,dehydration,"Offer small frequent sips of water or rehydration solution. If your dog cannot drink or becomes very weak, seek veterinary care.",no
+28,dog,dehydration,"Offer small frequent sips of water or rehydration solution. If your dog cannot drink or becomes very weak, seek veterinary care.",no
+58,dog,dehydration,"Offer small frequent sips of water or rehydration solution. If your dog cannot drink or becomes very weak, seek veterinary care.",no
+61,dog,dehydration,"Offer small frequent sips of water or rehydration solution. If your dog cannot drink or becomes very weak, seek veterinary care.",no
+65,dog,dehydration,"Offer small frequent sips of water or rehydration solution. If your dog cannot drink or becomes very weak, seek veterinary care.",no
+1,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+2,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+3,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+5,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+7,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+13,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+17,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+17,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+25,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+27,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+29,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+30,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+31,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+36,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+40,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+44,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+48,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+49,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+51,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+54,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+57,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+58,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+60,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+61,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+63,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+64,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+66,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+67,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+68,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+70,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+83,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+107,dog,diarrhea,"Ensure access to water. Pause food briefly and offer bland meals. If diarrhea is severe, bloody, or lasts more than a day, contact a veterinarian.",no
+32,dog,distended chest,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+20,dog,eye and skin change,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+28,dog,eye discharge,"Gently wipe discharge with a clean damp cloth. Avoid human eye drops. If swelling or pain develops, see a veterinarian.",no
+53,dog,eye discharge,"Gently wipe discharge with a clean damp cloth. Avoid human eye drops. If swelling or pain develops, see a veterinarian.",no
+15,dog,eye inflammation,"Prevent rubbing and flush gently with clean saline if irritated. If redness or pain continues, consult a veterinarian.",no
+19,dog,eye inflammation,"Prevent rubbing and flush gently with clean saline if irritated. If redness or pain continues, consult a veterinarian.",no
+1,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+2,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+3,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+4,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+5,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+6,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+9,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+13,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+14,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+15,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+16,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+19,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+20,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+21,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+25,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+33,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+35,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+37,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+41,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+43,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+44,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+46,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+49,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+52,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+55,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+57,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+62,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+69,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+74,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+75,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+76,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+77,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+78,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+79,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+80,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+81,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+82,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+83,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+84,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+85,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+86,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+87,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+88,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+89,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+90,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+91,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+92,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+93,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+94,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+95,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+96,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+97,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+98,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+99,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+100,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+101,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+102,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+103,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+104,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+105,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+106,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+108,dog,fever,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+17,dog,flatulence,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+8,dog,foul breath,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+23,dog,hair loss,Check for parasites or irritation and keep skin clean. Ongoing hair loss or skin changes should be examined by a veterinarian.,no
+6,dog,hyperesthesia,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+26,dog,jaundice,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+21,dog,joint pain,Limit activity and let your dog rest comfortably. Never give human pain medicine. Contact a veterinarian if pain persists.,no
+24,dog,lack of pigmentation,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+12,dog,lameness,"Restrict activity and inspect the paw or leg gently. If your dog cannot use the leg or shows severe pain, seek urgent veterinary care.",no
+14,dog,lameness,"Restrict activity and inspect the paw or leg gently. If your dog cannot use the leg or shows severe pain, seek urgent veterinary care.",no
+19,dog,lameness,"Restrict activity and inspect the paw or leg gently. If your dog cannot use the leg or shows severe pain, seek urgent veterinary care.",no
+34,dog,lameness,"Restrict activity and inspect the paw or leg gently. If your dog cannot use the leg or shows severe pain, seek urgent veterinary care.",no
+37,dog,lameness,"Restrict activity and inspect the paw or leg gently. If your dog cannot use the leg or shows severe pain, seek urgent veterinary care.",no
+41,dog,lameness,"Restrict activity and inspect the paw or leg gently. If your dog cannot use the leg or shows severe pain, seek urgent veterinary care.",no
+43,dog,lameness,"Restrict activity and inspect the paw or leg gently. If your dog cannot use the leg or shows severe pain, seek urgent veterinary care.",no
+108,dog,lameness,"Restrict activity and inspect the paw or leg gently. If your dog cannot use the leg or shows severe pain, seek urgent veterinary care.",no
+22,dog,lesions in the nasal cavity,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+22,dog,lesions on nose,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+2,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+4,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+5,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+11,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+12,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+14,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+15,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+16,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+18,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+19,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+21,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+24,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+28,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+33,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+35,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+36,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+37,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+39,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+40,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+41,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+42,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+44,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+45,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+46,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+47,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+48,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+50,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+51,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+53,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+55,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+56,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+59,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+60,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+62,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+63,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+64,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+65,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+66,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+67,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+68,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+70,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+71,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+72,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+73,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+74,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+75,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+76,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+77,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+78,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+79,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+80,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+81,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+82,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+83,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+84,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+85,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+86,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+87,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+88,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+89,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+90,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+91,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+92,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+93,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+94,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+95,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+96,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+97,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+98,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+99,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+100,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+101,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+102,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+103,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+104,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+105,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+106,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+107,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+108,dog,lethargy,"Keep your dog warm and quiet and offer water. If your dog is very weak, unresponsive, or worsening, contact a veterinarian immediately.",yes
+8,dog,loosened teeth,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+3,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+7,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+11,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+14,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+15,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+16,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+18,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+21,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+25,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+28,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+32,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+33,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+35,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+36,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+38,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+39,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+42,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+43,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+45,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+47,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+48,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+49,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+50,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+51,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+54,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+55,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+56,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+57,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+58,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+59,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+60,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+62,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+63,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+64,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+65,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+67,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+68,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+70,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+71,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+72,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+73,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+74,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+75,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+76,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+77,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+78,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+79,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+80,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+81,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+82,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+84,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+85,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+86,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+87,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+88,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+89,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+90,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+91,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+92,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+93,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+94,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+95,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+96,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+97,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+98,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+99,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+100,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+101,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+102,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+103,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+104,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+105,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+106,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+107,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+109,dog,loss of appetite,"Offer water and small bland meals. If appetite loss lasts more than 24 hours or comes with other symptoms, consult a veterinarian.",no
+30,dog,muscle pain,"Restrict movement and keep your dog comfortable. If pain is sudden, severe, or ongoing, contact a veterinarian.",no
+30,dog,muscle stiffness,Keep your dog warm and limit activity. Persistent or worsening stiffness should be checked by a veterinarian.,no
+10,dog,nasal discharge,"Clean the nose gently and keep your dog rested. If discharge becomes thick, bloody, or breathing worsens, consult a veterinarian.",no
+18,dog,nasal discharge,"Clean the nose gently and keep your dog rested. If discharge becomes thick, bloody, or breathing worsens, consult a veterinarian.",no
+24,dog,nasal discharge,"Clean the nose gently and keep your dog rested. If discharge becomes thick, bloody, or breathing worsens, consult a veterinarian.",no
+38,dog,nasal discharge,"Clean the nose gently and keep your dog rested. If discharge becomes thick, bloody, or breathing worsens, consult a veterinarian.",no
+42,dog,nasal discharge,"Clean the nose gently and keep your dog rested. If discharge becomes thick, bloody, or breathing worsens, consult a veterinarian.",no
+52,dog,nasal discharge,"Clean the nose gently and keep your dog rested. If discharge becomes thick, bloody, or breathing worsens, consult a veterinarian.",no
+69,dog,nasal discharge,"Clean the nose gently and keep your dog rested. If discharge becomes thick, bloody, or breathing worsens, consult a veterinarian.",no
+109,dog,nasal discharge,"Clean the nose gently and keep your dog rested. If discharge becomes thick, bloody, or breathing worsens, consult a veterinarian.",no
+15,dog,neurologic abnormalities,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+22,dog,nose bleeds,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+2,dog,pain,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+10,dog,pain,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+16,dog,pain,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+17,dog,pain,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+24,dog,pain,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+26,dog,pain,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+33,dog,pain,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+34,dog,pain,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+26,dog,pneumonia,Keep your dog calm and warm. Breathing infections can be serious—seek veterinary care urgently.,yes
+27,dog,poor coat appearance,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+11,dog,rapid heart rate,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+6,dog,seizures,"Remove nearby objects to prevent injury and do not touch the mouth. If the seizure lasts several minutes or repeats, go to emergency veterinary care.",yes
+7,dog,skin lesions,"Clean gently and keep the area dry. Prevent licking or scratching. If lesions worsen or ooze, contact a veterinarian.",no
+23,dog,skin lesions,"Clean gently and keep the area dry. Prevent licking or scratching. If lesions worsen or ooze, contact a veterinarian.",no
+26,dog,skin lesions,"Clean gently and keep the area dry. Prevent licking or scratching. If lesions worsen or ooze, contact a veterinarian.",no
+37,dog,skin lesions,"Clean gently and keep the area dry. Prevent licking or scratching. If lesions worsen or ooze, contact a veterinarian.",no
+41,dog,skin lesions,"Clean gently and keep the area dry. Prevent licking or scratching. If lesions worsen or ooze, contact a veterinarian.",no
+46,dog,skin lesions,"Clean gently and keep the area dry. Prevent licking or scratching. If lesions worsen or ooze, contact a veterinarian.",no
+108,dog,skin lesions,"Clean gently and keep the area dry. Prevent licking or scratching. If lesions worsen or ooze, contact a veterinarian.",no
+4,dog,sneezing,"Remove irritants and monitor. If sneezing continues or is paired with discharge or breathing trouble, consult a veterinarian.",no
+18,dog,sneezing,"Remove irritants and monitor. If sneezing continues or is paired with discharge or breathing trouble, consult a veterinarian.",no
+24,dog,sneezing,"Remove irritants and monitor. If sneezing continues or is paired with discharge or breathing trouble, consult a veterinarian.",no
+53,dog,sneezing,"Remove irritants and monitor. If sneezing continues or is paired with discharge or breathing trouble, consult a veterinarian.",no
+13,dog,stiffness,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+29,dog,straining,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+6,dog,sudden death,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+8,dog,swelling,Apply a cool compress briefly and prevent licking. Swelling of the face or breathing issues should be treated as an emergency.,no
+10,dog,swelling,Apply a cool compress briefly and prevent licking. Swelling of the face or breathing issues should be treated as an emergency.,no
+14,dog,swelling,Apply a cool compress briefly and prevent licking. Swelling of the face or breathing issues should be treated as an emergency.,no
+16,dog,swelling,Apply a cool compress briefly and prevent licking. Swelling of the face or breathing issues should be treated as an emergency.,no
+34,dog,swelling,Apply a cool compress briefly and prevent licking. Swelling of the face or breathing issues should be treated as an emergency.,no
+43,dog,swelling,Apply a cool compress briefly and prevent licking. Swelling of the face or breathing issues should be treated as an emergency.,no
+7,dog,swollen lymph nodes,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+9,dog,swollen lymph nodes,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+12,dog,swollen lymph nodes,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+7,dog,tarry stool,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+17,dog,tenesmus,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+9,dog,thirst and urination,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+8,dog,unable to eat,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+20,dog,unable to exercise,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+34,dog,unable to exercise,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+30,dog,upset stomach,"Pause food for a few hours and offer small sips of water. If vomiting starts or symptoms worsen, consult a veterinarian.",no
+31,dog,upset stomach,"Pause food for a few hours and offer small sips of water. If vomiting starts or symptoms worsen, consult a veterinarian.",no
+12,dog,vaginal discharge,This symptom requires veterinary assessment. Please contact a veterinarian.,no
+1,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+3,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+25,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+26,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+27,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+28,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+29,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+30,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+35,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+36,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+39,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+40,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+44,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+46,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+48,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+49,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+51,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+54,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+55,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+57,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+58,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+60,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+61,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+62,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+63,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+64,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+65,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+66,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+67,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+68,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+70,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+71,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+72,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+73,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+74,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+77,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+80,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+81,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+83,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+84,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+85,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+87,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+88,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+89,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+91,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+92,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+93,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+95,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+96,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+98,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+99,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+100,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+101,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+102,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+103,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+105,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+106,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+107,dog,vomiting,Withhold food for several hours and offer small sips of water. Repeated vomiting or weakness needs veterinary care.,no
+11,dog,weakness,Keep your dog warm and prevent movement. Sudden or severe weakness requires immediate veterinary attention.,yes
+11,dog,weakness,Keep your dog warm and prevent movement. Sudden or severe weakness requires immediate veterinary attention.,yes
+13,dog,weakness,Keep your dog warm and prevent movement. Sudden or severe weakness requires immediate veterinary attention.,yes
+34,dog,weakness,Keep your dog warm and prevent movement. Sudden or severe weakness requires immediate veterinary attention.,yes
+1,dog,weight loss,Monitor eating and drinking. Unexplained or ongoing weight loss should be checked by a veterinarian.,no
+9,dog,weight loss,Monitor eating and drinking. Unexplained or ongoing weight loss should be checked by a veterinarian.,no
+25,dog,weight loss,Monitor eating and drinking. Unexplained or ongoing weight loss should be checked by a veterinarian.,no
+27,dog,weight loss,Monitor eating and drinking. Unexplained or ongoing weight loss should be checked by a veterinarian.,no
+29,dog,weight loss,Monitor eating and drinking. Unexplained or ongoing weight loss should be checked by a veterinarian.,no
+31,dog,weight loss,Monitor eating and drinking. Unexplained or ongoing weight loss should be checked by a veterinarian.,no
+32,dog,weight loss,Monitor eating and drinking. Unexplained or ongoing weight loss should be checked by a veterinarian.,no
+33,dog,weight loss,Monitor eating and drinking. Unexplained or ongoing weight loss should be checked by a veterinarian.,no
+54,dog,weight loss,Monitor eating and drinking. Unexplained or ongoing weight loss should be checked by a veterinarian.,no
+61,dog,weight loss,Monitor eating and drinking. Unexplained or ongoing weight loss should be checked by a veterinarian.,no
+66,dog,weight loss,Monitor eating and drinking. Unexplained or ongoing weight loss should be checked by a veterinarian.,no
