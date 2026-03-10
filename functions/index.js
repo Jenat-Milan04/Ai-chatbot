@@ -53,6 +53,79 @@ function normalizeSymptom(userInput) {
 
 /**
  * ----------------------------------------
+ * 2) “Common name” / unnormalized mappings
+ * ----------------------------------------
+ */
+const SYMPTOM_ALIASES = {
+  // vomiting
+  "vomitting": "vomiting",
+  "vomit": "vomiting",
+  "throwing up": "vomiting",
+  "dog vomiting": "vomiting",
+  "dog vomit": "vomiting",
+
+  // diarrhea
+  "diarhea": "diarrhea",
+  "diarrhoea": "diarrhea",
+  "loosemotion": "diarrhea",
+  "loose_motions": "diarrhea",
+  "loose stool": "diarrhea",
+  "watery stool": "diarrhea",
+  "runny stool": "diarrhea",
+
+  // appetite
+  "poor appetite": "loss of appetite",
+  "no appetite": "loss of appetite",
+  "not eating": "loss of appetite",
+  "dog not eating": "loss of appetite",
+  "loss appetite": "loss of appetite",
+  "unable to eat": "loss of appetite",
+
+  // fever
+  "high temperature": "fever",
+  "dog fever": "fever",
+  "hot body": "fever",
+  "high temp": "fever",
+
+  // lethargy
+  "tired": "lethargy",
+  "very tired": "lethargy",
+  "low energy": "lethargy",
+  "weak": "lethargy",
+  "reduced energy": "lethargy",
+
+  // breathing 
+  "breathing problem": "breathing difficulty",
+  "hard to breathe": "breathing difficulty",
+  "trouble breathing": "breathing difficulty",
+  "labored breathing": "breathing difficulty",
+
+  // nose
+  "runny nose": "nasal discharge",
+  "nose discharge": "nasal discharge",
+  "fluid from nose": "nasal discharge",
+
+  // walking
+  "limping": "lameness",
+  "cannot walk properly": "lameness",
+  "difficulty walking": "lameness",
+  "leg injury": "lameness",
+
+  // seizures
+  "fits": "seizures",
+  "convulsions": "seizures",
+  "dog shaking": "seizures",
+  "body shaking": "seizures",
+
+  // weight loss
+  "losing weight": "weight loss",
+  "getting thin": "weight loss",
+  "dog losing weight": "weight loss",
+};
+
+
+/**
+ * ----------------------------------------
  * 3) Extract symptoms from full sentences
  * ----------------------------------------
  */

@@ -1,0 +1,88 @@
+[33mcommit 6d1455f7ca96c3d58c7be71c7072e30fb6dadf0d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: JenatMilan04 <jenat.20242062@iit.ac.lk>
+Date:   Mon Mar 9 12:57:28 2026 +0530
+
+    Backend: updated chatbot logic in index.js
+
+[1mdiff --git a/functions/index.js b/functions/index.js[m
+[1mindex 79b9c38..1a9a9c5 100644[m
+[1m--- a/functions/index.js[m
+[1m+++ b/functions/index.js[m
+[36m@@ -40,77 +40,6 @@[m [mfor (const r of ADVICE_ROWS) {[m
+   if (!SYMPTOM_TO_ROW.has(r.symptom)) SYMPTOM_TO_ROW.set(r.symptom, r);[m
+ }[m
+ [m
+[31m-/**[m
+[31m- * ----------------------------------------[m
+[31m- * 2) “Common name” / unnormalized mappings[m
+[31m- * ----------------------------------------[m
+[31m- */[m
+[31m-const SYMPTOM_ALIASES = {[m
+[31m-  // vomiting[m
+[31m-  "vomitting": "vomiting",[m
+[31m-  "vomit": "vomiting",[m
+[31m-  "throwing up": "vomiting",[m
+[31m-  "dog vomiting": "vomiting",[m
+[31m-  "dog vomit": "vomiting",[m
+[31m-[m
+[31m-  // diarrhea[m
+[31m-  "diarhea": "diarrhea",[m
+[31m-  "diarrhoea": "diarrhea",[m
+[31m-  "loosemotion": "diarrhea",[m
+[31m-  "loose_motions": "diarrhea",[m
+[31m-  "loose stool": "diarrhea",[m
+[31m-  "watery stool": "diarrhea",[m
+[31m-  "runny stool": "diarrhea",[m
+[31m-[m
+[31m-  // appetite[m
+[31m-  "poor appetite": "loss of appetite",[m
+[31m-  "no appetite": "loss of appetite",[m
+[31m-  "not eating": "loss of appetite",[m
+[31m-  "dog not eating": "loss of appetite",[m
+[31m-  "loss appetite": "loss of appetite",[m
+[31m-  "unable to eat": "loss of appetite",[m
+[31m-[m
+[31m-  // fever[m
+[31m-  "high temperature": "fever",[m
+[31m-  "dog fever": "fever",[m
+[31m-  "hot body": "fever",[m
+[31m-  "high temp": "fever",[m
+[31m-[m
+[31m-  // lethargy[m
+[31m-  "tired": "lethargy",[m
+[31m-  "very tired": "lethargy",[m
+[31m-  "low energy": "lethargy",[m
+[31m-  "weak": "lethargy",[m
+[31m-  "reduced energy": "lethargy",[m
+[31m-[m
+[31m-  // breathing [m
+[31m-  "breathing problem": "breathing difficulty",[m
+[31m-  "hard to breathe": "breathing difficulty",[m
+[31m-  "trouble breathing": "breathing difficulty",[m
+[31m-  "labored breathing": "breathing difficulty",[m
+[31m-[m
+[31m-  // nose[m
+[31m-  "runny nose": "nasal discharge",[m
+[31m-  "nose discharge": "nasal discharge",[m
+[31m-  "fluid from nose": "nasal discharge",[m
+[31m-[m
+[31m-  // walking[m
+[31m-  "limping": "lameness",[m
+[31m-  "cannot walk properly": "lameness",[m
+[31m-  "difficulty walking": "lameness",[m
+[31m-  "leg injury": "lameness",[m
+[31m-[m
+[31m-  // seizures[m
+[31m-  "fits": "seizures",[m
+[31m-  "convulsions": "seizures",[m
+[31m-  "dog shaking": "seizures",[m
+[31m-  "body shaking": "seizures",[m
+[31m-[m
+[31m-  // weight loss[m
+[31m-  "losing weight": "weight loss",[m
+[31m-  "getting thin": "weight loss",[m
+[31m-  "dog losing weight": "weight loss",[m
+[31m-};[m
+ [m
+ [m
+ /**[m
